@@ -1,4 +1,4 @@
-public class BonusRubles {
+public class Main {
     public static void main(String[] args) {
         int initialAmount = 200; //начальный счет
         int replenishment = 1100; // сумма пополнения

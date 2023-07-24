@@ -12,6 +12,7 @@ public class Main {
         int accountAmount = initialAmount + replenishment + bonus;
 
         System.out.println("Сумма на счете = " + accountAmount); // Конечная сумма на счете
+        System.out.println("Бонус = " + bonus); // Конечная бонусов
 
 
     }
